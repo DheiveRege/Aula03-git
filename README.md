@@ -1,6 +1,7 @@
-Aqui estamos criando um arquivo e tals  
-fazendo uma atividade no dia 13 de maio em uma sexta-feira
-sera uma pagina falando sobre min 
+Aqui estamos criando um arquivo e tals
+ativiade com professor eder   no dia 13 de maio em uma sexta-feira  
+objetivo: fazer 16 commits 
+
+tambem tera uma pagina falando sobre min e contato
 vai ficar top
-ativiade com professor eder    
-objetivo: fazer 16 commits
+
